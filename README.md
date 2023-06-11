@@ -1,5 +1,7 @@
 # ML-
 
+Andrew Ng Machine Learning Career Advice https://www.youtube.com/watch?v=hkagmGAu74Y
+
 ## 数学
 《数学分析》复旦 陈纪修 https://www.bilibili.com/video/BV15v411g7VP/?vd_source=1179d3cbe00df502638a7857059ab3b5
 
