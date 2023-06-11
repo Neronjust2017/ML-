@@ -30,3 +30,6 @@
 
 ## 高效学习
 https://www.bilibili.com/video/BV1E7411a7gm/?spm_id_from=333.788.recommend_more_video.1&vd_source=1179d3cbe00df502638a7857059ab3b5
+
+## PhD on ML 
+https://www.youtube.com/results?search_query=machine+learning+PHD
