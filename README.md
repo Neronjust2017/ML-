@@ -15,6 +15,8 @@ Andrew Ng Machine Learning Career Advice https://www.youtube.com/watch?v=hkagmGA
 
 《概率导论》
 
+《实变函数》武大
+
 ## ML
 《Information Theory, Inference and Learning》剑桥 https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6
 
